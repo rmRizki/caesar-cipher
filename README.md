@@ -11,7 +11,7 @@ Check this link to see the web version of this project : <https://rmrizki.github
 
 ## Screenshot
 
-![ss1](images/ss1.jpeg)
+<img src="images/ss1.jpeg" height="auto" width="120" >
 ![ss2](images/ss2.jpeg)
 
 ## Getting Started
