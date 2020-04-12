@@ -11,8 +11,7 @@ Check this link to see the web version of this project : <https://rmrizki.github
 
 ## Screenshot
 
-<img src="images/ss1.jpeg" height="auto" width="240">
-<img src="images/ss2.jpeg" height="auto" width="240" >
+<img src="images/ss1.jpeg" height="auto" width="240"> | <img src="images/ss2.jpeg" height="auto" width="240">
 
 ## Getting Started
 
